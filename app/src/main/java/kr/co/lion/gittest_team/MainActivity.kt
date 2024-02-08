@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val str1 = "작성자 : 정현"
+        val str2 = "안녕하세요"
     }
 }
